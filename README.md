@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**pkss91/pkss91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 This is Paul Zhi. I am a senior Bachelor's student in CS at the University of Texas at Arlington majoring in Computer Science. I am a software developer and I like to develop applications.
 
 - 🔭 I’m currently working on developing my website and creating my apps.
 - 🌱 I’m currently learning Java and Python languages.
@@ -11,4 +6,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with android development.
 - 💬 Ask me about anything
 - 📫 How to reach me: kho0531@gmail.com
--->
+
