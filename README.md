@@ -1,9 +1,9 @@
-### Hi there 👋 This is Paul Zhi. I am a senior Bachelor's student in CS at the University of Texas at Arlington majoring in Computer Science. I am a software developer and I like to develop applications.
+### Hi there 👋 This is Paul Zhi. I graduated with the bachelor's degree in Computer Science and I have 1+ year experience in IT management and development. I am currently working on my personal projects to learn more about data and python language. I am looking to become a proficient data scientist and achieve my future goal.
 
-- 🔭 I’m currently working on developing my website and creating my apps.
-- 🌱 I’m currently learning Java and Python languages.
-- 👯 I’m looking to collaborate on Android apps.
-- 🤔 I’m looking for help with android development.
+- 🔭 I’m currently working on developing my website and analyzing data.
+- 🌱 I’m currently learning SQL and Python languages.
+- 👯 I’m Interested in data science.
+- 🤔 I’m looking to achieve SQL certifications.
 - 💬 Ask me about anything
 - 📫 How to reach me: kho0531@gmail.com
 
